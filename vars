@@ -1,0 +1,5 @@
+export countryName_default=fr
+export stateOrProvinceName_default=Paris
+export localityName_default=Paris
+export organizationName_default=lbtm
+export organizationalUnitName_default=lbtm
